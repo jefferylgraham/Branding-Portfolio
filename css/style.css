@@ -3,6 +3,10 @@
 @import "top-section.css";
 @import "services.css";
 
+body {
+  background: #eee;
+}
+
 .container {
   max-width: 1100px;
   margin: 0 auto;
